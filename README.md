@@ -1,5 +1,3 @@
-### Google Drive linki: https://drive.google.com/file/d/1HLNPg1jg9DMMDYrA6hQ68yjPqfL4Y8xm/view?usp=sharing
-
 # Payment Notification System with RabbitMQ, Flask and Flask-Mail
 
 This project implements a payment notification system using RabbitMQ, Flask (a Python web framework), and Flask-Mail to simulate a real-world asynchronous messaging system. The goal is to process payments, send notifications, and notify users about the status of their payments via email.
